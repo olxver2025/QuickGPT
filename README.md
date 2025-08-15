@@ -83,3 +83,6 @@ History is stored at:
 - Emojis look small or misaligned:
   - Windows emoji rendering varies by font; increasing DPI/scaling or font size in code can help. Ask if you want me to adjust sizes.
 
+## Showcase
+<img width="624" height="417" alt="image" src="https://github.com/user-attachments/assets/9c1ae8c5-d46a-4a52-9eb8-454fbd782e96" />
+
